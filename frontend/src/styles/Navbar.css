@@ -1,0 +1,11 @@
+@import 'Theme.css';
+
+.Navbar {
+  background-color: var(--dark-purple);
+  padding: 1%;
+  text-align: left;
+}
+
+a {
+  margin-right: 1%;
+}
